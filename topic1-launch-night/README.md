@@ -202,7 +202,7 @@ Open this `README.md` file and replace the line below with one or two sentences 
 
 ### Why is Git distributed?
 
-Write your answer here.
+Git is distributed owing to how it functions as a online repository for code, and is distributed out of necessity for it to run.
 
 Save the README, then run:
 
